@@ -49,60 +49,60 @@ export default function QuiltedImageList() {
 
 const itemData = [
   {
-    img: "/images/img 1.png",
+    img: "/images/g1.png",
     title: "Breakfast",
     rows: 2,
     cols: 2,
   },
   {
-    img: "/images/img-2.png",
+    img: "/images/g2.png",
     title: "Burger",
   },
   {
-    img: "/images/1iimg-3.png",
+    img: "/images/g3.png",
     title: "Camera",
   },
   {
-    img: "/images/img7.png",
+    img: "/images/g4.png",
     title: "Coffee",
     cols: 2,
   },
   {
-    img: "/images/img9.png",
+    img: "/images/hero.png",
     title: "Hats",
     cols: 2,
   },
   {
-    img: "/images/img11.png",
+    img: "/images/about.png",
     title: "Honey",
     author: "@arwinneil",
     rows: 2,
     cols: 2,
   },
   {
-    img: "/images/img6.png",
+    img: "/images/service1.png",
     title: "Basketball",
   },
   {
-    img: "/images/img8.png",
+    img: "/images/service6.png",
     title: "Fern",
   },
   {
-    img: "/images/img-6.png",
+    img: "/images/service4.png",
     title: "Mushrooms",
     rows: 2,
     cols: 2,
   },
   {
-    img: "/images/about-img.png",
+    img: "/images/service2.png",
     title: "Tomato basil",
   },
   {
-    img: "/images/img-5.png",
+    img: "/images/service5.png",
     title: "Sea star",
   },
   {
-    img: "/images/iimg-4.png",
+    img: "/images/service3.png",
     title: "Bike",
     cols: 2,
   },

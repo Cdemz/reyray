@@ -11,11 +11,11 @@ const TopNav: FC = () => {
       <div className="flex gap-2 text-[10px] md:text-sm ">
         <p className="flex items-center">
           <MdCall className="text-[var(--color-primary)] mr-1" />{" "}
-          +1-786-636-5533
+          +1-305-546-6898
         </p>
         <p className="flex items-center">
           <HiMail className="text-[var(--color-primary)] mr-1" />{" "}
-          rcoto05@yhaoo.com
+          allovertowingandrecovery@hotmail
         </p>
         <p className="flex items-center">
           <BiTimeFive className="text-[var(--color-primary)] mr-1" />

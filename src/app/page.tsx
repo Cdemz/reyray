@@ -22,7 +22,7 @@ export default function Home() {
         <div className="">
           <Image
             alt="hero-img"
-            src="/images/1hero1.png"
+            src="/images/hero.png"
             width={300}
             height={300}
             priority={true}
@@ -36,13 +36,13 @@ export default function Home() {
             <div className="flex gap-1 items-center">
               <div className="w-3 h-[7rem] bg-[var(--color-primary)] rounded "></div>
               <h1 className=" leading-[3rem]  text-6xl font-extrabold   ">
-                RAYREY <span className="block ">TOWING & RECOVERY</span>
+                ALL OVER <span className="block ">TOWING & RECOVERY</span>
               </h1>
             </div>
-            <p className="md:w-[50%] md:text-lg text-xs">
+            <p className="md:w-[50%] md:text-lg text-xs mt-4 md:mt-0">
               Stuck on the side of the road with a broken down car? Don't worry,
               our team of expert tow truck drivers are here to be your hero on
-              the road. At RAYREY TOWING & RECOVERY, we understand the stress
+              the road. At ALL OVER TOWING RECOVERY, we understand the stress
               and frustration of being stranded, which is why we offer reliable
               and efficient towing services to get you back on track in no time.
             </p>
@@ -54,7 +54,7 @@ export default function Home() {
             <div className="hidden md:flex absolute left-[50%] top-[70%]">
               <div className="bg-[url('/images/red-bg.jpg')] bg-cover p-6 w-[16rem]    ">
                 <h2>24/7 EMERGENCY TOWING</h2>
-                <h1 className="text-2xl">+1-786-636-5533</h1>
+                <h1 className="text-2xl">+1-305-546-6898</h1>
               </div>
             </div>
           </div>

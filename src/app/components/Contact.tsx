@@ -63,18 +63,18 @@ const FormPage = () => {
             </p>
             <p className="flex items-center gap-2">
               <IoIosCall className="text-[var(--color-primary)]" size={26} />{" "}
-              +1-786-636-5533
+              +1-305-546-6898
             </p>
             <p className="flex items-center gap-2">
               <HiMailOpen className="text-[var(--color-primary)]" size={26} />{" "}
-              rcoto05@yhaoo.com
+              allovertowingandrecovery@hotmail
             </p>
             <p className="flex items-center gap-2">
               <AiFillInstagram
                 className="text-[var(--color-primary)]"
                 size={26}
               />
-              rayreytowing
+              allovertowing1
             </p>
           </div>
         </div>
@@ -121,7 +121,7 @@ const FormPage = () => {
 
             <button
               type="submit"
-              className="bg-[var(--color-primary)] px-[10rem] py-3 rounded-3xl"
+              className="bg-[var(--color-primary)] text-[var(--color-bg)] px-[10rem] py-3 rounded-3xl"
             >
               Submit
             </button>

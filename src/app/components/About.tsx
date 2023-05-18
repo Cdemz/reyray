@@ -19,7 +19,7 @@ const About: FC = () => {
       <div className="px-4 py-8 md:px-[8rem] md:py-10 flex md:flex-row justify-between bg-[var(--color-bg)] text-[var(--color-text)] flex-col md:gap-6">
         <div className="">
           <Image
-            src="/images/about-img.png"
+            src="/images/about.png"
             alt="a truck image"
             width={300}
             height={300}
@@ -48,7 +48,7 @@ const About: FC = () => {
         <div className="w-full md:h-[15rem] h-[26rem] ">
           <Image
             data-aos="flip-right"
-            src="/images/1idan-bg.png"
+            src="/images/about.png"
             alt="pick up ground"
             width={300}
             height={300}

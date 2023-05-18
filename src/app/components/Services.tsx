@@ -3,40 +3,40 @@ import { FC } from "react";
 
 const data = [
   {
-    imageUrl: "/images/img 1.png",
+    imageUrl: "/images/service1.png",
     heroText: "Emergency Towing",
     comment:
       "If your vehicle breaks down or you're involved in an accident, we can come to your location and tow your vehicle to a repair shop or another desired destination.",
   },
   {
-    imageUrl: "/images/iimg-2.png",
+    imageUrl: "/images/service2.png",
     heroText: "Roadside Assistance",
     comment:
       "Whether you have a flat tire, run out of fuel, or experience a dead battery, we can provide roadside assistance to get you back on the road quickly. We can jump-start your vehicle, deliver fuel, or help you change a tire.",
   },
   {
-    imageUrl: "/images/1iimg-3.png",
+    imageUrl: "/images/service3.png",
     heroText: "Winching",
     comment:
       "If your vehicle is stuck in a difficult situation such as a deep ditch or a tight spot, we offer winching services to safely pull your vehicle out and get you back on the road.",
   },
 
   {
-    imageUrl: "/images/iimg-4.png",
+    imageUrl: "/images/service4.png",
     heroText: "Long-Distance Towing",
     comment:
       "If you need to transport your vehicle over a long distance, we can securely tow it to your desired location, whether it's across town or to another city.",
   },
 
   {
-    imageUrl: "/images/img-5.png",
+    imageUrl: "/images/service5.png",
     heroText: "Junk Car Removal",
     comment:
       "If you have an old, unwanted, or non-functional vehicle taking up space on your property, we can assist you by removing it. Our towing professionals will haul away your junk car and ensure proper disposal or recycling.",
   },
 
   {
-    imageUrl: "/images/img-6.png",
+    imageUrl: "/images/service6.png",
     heroText: "Accident Recovery",
     comment:
       "In the unfortunate event of a vehicle accident, we offer accident recovery services. We can safely tow your damaged vehicle from the accident scene and transport it to a collision repair facility or another destination of your choice.",
