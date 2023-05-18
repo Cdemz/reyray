@@ -58,7 +58,7 @@ const Footer: FC = () => {
       {/* second big div  */}
       <div className="text-[var(--color-text)] justify-start  ">
         <hr className="my-2" />
-        <p>© 2023 RAYRET TOWING, All Rights Reserved.</p>
+        <p>© 2023 RAYREY TOWING, All Rights Reserved.</p>
         <p>
           Disclaimer: RAYREY TOWING is a towing service provider. We connect you
           with professional towing operators in your area. Please note that T&S
